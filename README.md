@@ -1,2 +1,2 @@
 # branchtest
-main
+release 1.0
